@@ -4,7 +4,7 @@ body {
     margin-right:17px;
     padding-top:80px;
     padding-left: 80px;
-    height: 3000px;
+    height: 1000px;
     background-color:rgba(230, 219, 219, 0.856);
     
 
@@ -13,3 +13,4 @@ body {
 strong {
     cursor: pointer;
 }
+
