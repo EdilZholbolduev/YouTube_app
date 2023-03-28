@@ -1,0 +1,49 @@
+.sidebar{
+    position:fixed;
+    left: 0;
+    bottom:0;
+    top:55px;
+    width: 70px;
+    background-color: white;
+}
+
+.side-1{
+    text-align: center;
+    margin-top:25px;
+    cursor:pointer;
+}
+
+.side-1:hover{
+    background-color:rgb(215, 215, 215);
+}
+
+.home{
+    height: 35px;
+    width:25px;
+}
+
+
+p{
+    margin:0px;
+    font-size:0.57rem;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+.side-2,.side-3,.side-4,.side-5,.side-6{
+    text-align: center;
+    margin-top:25px;
+    cursor:pointer;
+}
+
+.side-2:hover,.side-3:hover,.side-4:hover,.side-5:hover,.side-6:hover{
+    background-color:rgb(215, 215, 215);
+}
+.side-1:active,.side-2:active,.side-3:active,.side-4:active,.side-5:active,.side-6:active{
+    opacity:0.7;
+}
+
+.explore,.subscriptions,.originals,.youtube-music,.library{
+    height: 35px;
+    width:25px;
+}
